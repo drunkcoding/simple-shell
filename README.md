@@ -1,4 +1,4 @@
-# This is the pro|ect of a simple shell
+# This is the project of a simple shell
 Makefile run for Linux/Minix by make (clang)
 
 - 1. Write a working read/parse/execute loop and an exit command;
